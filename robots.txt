@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sinsipiu.github.io/sitemap.html.gz
+Sitemap: https://sinsipiu.github.io/app/sitemap.html.gz
+Sitemap: https://sinsipiu.github.io/assets/sitemap.html.gz
+Sitemap: https://sinsipiu.github.io/css/sitemap.html.gz
+Sitemap: https://sinsipiu.github.io/data/sitemap.html.gz
+Sitemap: https://sinsipiu.github.io/includes/sitemap.html.gz
+Sitemap: https://sinsipiu.github.io/item/sitemap.html.gz
+Sitemap: https://sinsipiu.github.io/src/sitemap.html.gz
